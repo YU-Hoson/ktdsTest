@@ -9,6 +9,7 @@ import com.ktdsuniversity.edu.todo.vo.TodoVO;
 //클래스 생성
 public class TodoController {
 	
+	// cotroller 생성
 	public static void main(String[] args) {
 		
 		TodoService service = new TodoService();
